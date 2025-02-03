@@ -5,4 +5,4 @@ func Puppy() string {
 	return x
 }
 
-// bimp commit to add tag version to make go pckg working
+// bump commit to add tag version to make go pckg working
